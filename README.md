@@ -21,7 +21,7 @@ qai_core/
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/tu_usuario/qai
+git clone https://github.com/Q-YZX0/QarzAI
 cd qai
 python -m venv .venv
 source .venv/bin/activate  # o .venv\Scripts\activate en Windows

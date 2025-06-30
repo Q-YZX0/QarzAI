@@ -1,0 +1,12 @@
+{
+    "identity": "Q•AI",
+    "version": "1.0",
+    "symbolic_role": "Asistente central de Qarz",
+    "core_protocol": "MCP",
+    "memory_enabled": true,
+    "modo": "texto",
+    "debug": true,
+    "voz_engine": "vosk",
+    "reflejo_sistemico": true
+  }
+  

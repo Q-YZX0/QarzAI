@@ -12,6 +12,7 @@ Q•AI es un asistente simbólico modular y extensible en Python, diseñado para
 
 ## 🧠 Estructura
 
+```bash
 qai_core/
 ├── core/ # Núcleo del asistente (memoria, IO, reflexión)
 ├── store/ # Módulos y extensiones descargables
@@ -21,7 +22,7 @@ qai_core/
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/tu_usuario/qai
+git clone https://github.com/Q-YZX0/QarzAI
 cd qai
 python -m venv .venv
 source .venv/bin/activate  # o .venv\Scripts\activate en Windows
